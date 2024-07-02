@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "django": "^1.0.0",
+    "node.js": "^0.0.1-security",
+    "python": "^0.0.4"
+  }
+}
